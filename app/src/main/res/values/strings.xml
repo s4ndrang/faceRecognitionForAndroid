@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FaceRecognition</string>
+    <string name="title">Is It You ?</string>
+    <string name="subtitle">Face Recognition App</string>
+    <string name="enter_your_name">Enter your name...</string>
+    <string name="ok">OK</string>
+    <string name="instructions">Position your face in the oval. \n\nWhen the video starts, turn your face right, left, up, then down.\n\n Finally, look straight ahead.</string>
+    <string name="take_a_photo">Take a photo</string>
+</resources>
